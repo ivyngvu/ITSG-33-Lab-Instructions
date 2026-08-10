@@ -2,7 +2,7 @@
 
 ## Welcome to Track D: Secure Development with IBM Bob
 
-Welcome to the IBM Bob Developer Day Ottawa! In this track, you'll learn how to accelerate Authority to Operate (ATO) readiness and security assessment preparation using IBM Bob as your AI-powered security assessment assistant.
+Welcome to the IBM Bob Developer Day! In this track, you'll learn how to accelerate Authority to Operate (ATO) readiness and security assessment preparation using IBM Bob as your AI-powered security assessment assistant.
 
 ---
 
@@ -22,44 +22,30 @@ By the end of this lab, you will:
 
 ## Part 1: Lab Setup and Verification
 
-### Step 1: Access the Lab Environment
+### Step 1: Set Up the Sample Application
 
-1. **Open the Lab Environment:**
-   
-   Click on this link to access the lab environment:
-   
-   **Link:** https://vdi.cloud.techzone.ibm.com/guacamole
+ **Download the Sample Application:**
 
-2. **Navigate to Your Environment:**
-   
-   - Click on the **+** sign next to **IBM Cloud**
-   - Click on the **+** sign next to **Environment 6a3567090ebee3953d22b53c: #<ab>-BobDevDay-Track-E**
-   - Then click on **VNC Desktop**
+   Download the sample application to your computer using this link:
 
-3. **Open Activities:**
-   
-   Click on **"Activities"** in the top left corner and look for Bob. Open IBM Bob.
-   
-   > 💡 **Note:** There might be a pop-up asking you to "Choose password for new keyring". Click on **"Cancel"**.
+   **Link:** [ibm.biz/halifax-trackd-filedownload](https://ibm.biz/halifax-trackd-filedownload)
 
-4. **Open the Sample Application:**
-   
-   - Press **Ctrl+Shift+E** to open the Explorer, or click on the **"Explorer"** icon
-   - Click on **"Open Folder"**
-   - Select the sample application available at:
-     ```
-     /home/itzuser/sample_application
-     ```
+   Once downloaded, **unzip/extract** the file to a location you can easily find (e.g. your Desktop or Downloads folder).
 
 ---
 
 ### Step 2: Sign In to Bob
 
-Open IBM Bob and log in using your IBM ID by clicking on "Log in to Bob".
+Open **IBM Bob** on your computer and log in using your IBM ID by clicking on **"Log in to Bob"**.
 
 - Log in using your IBM ID credentials. If you don't have an IBM ID, create one at [IBM ID Registration](https://www.ibm.com/account/reg/register.do).
-- Once you have successfully logged in, click again on "Activities" in the top left corner and look for Bob.
 
+**Open the Sample Application in Bob:**
+
+   - Open **IBM Bob** on your computer
+   - Press **Ctrl+Shift+E** (or **Cmd+Shift+E** on Mac) to open the Explorer, or click on the **"Explorer"** icon
+   - Click on **"Open Folder"**
+   - Navigate to and select the folder you just extracted
 ---
 
 ### Step 3: Verify Bob Can Access Files
