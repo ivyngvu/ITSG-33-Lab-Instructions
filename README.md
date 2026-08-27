@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the **IBM Bob Developer Day - Track D: Secure Development with IBM Bob**!
+Welcome to the **IBM Bob Developer Day - Track C: Secure Development with IBM Bob**!
 
 These hands-on labs teach you how to accelerate Authority to Operate (ATO) readiness and security assessment preparation using IBM Bob as your AI-powered security assessment assistant.
 
